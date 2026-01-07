@@ -1,5 +1,4 @@
-# Nestle-Regional-Sales-Dashboard-Excel
-This project is an Nestle Comp. Regional Sales dashboard designed to analyze regional sales performance and support management decision-making. The dashboard transforms raw transactional sales data into actionable business insights by applying structured calculations, KPIs, and visual Data storytelling .
+# 📈💲Nestle-Regional-Sales-Dashboard-Excel
 
 ---
 ## Table of Contents
@@ -17,6 +16,10 @@ This project is an Nestle Comp. Regional Sales dashboard designed to analyze reg
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-created-by">Created By</a>
 ---
 
+# Overview
+This project is an Nestle Comp. Regional Sales dashboard designed to analyze regional sales performance and support management decision-making. The dashboard transforms raw transactional sales data into actionable business insights by applying structured calculations, KPIs, and visual Data storytelling .
+
+---
 # Real-World Business Problems Solved
 This dashboard addresses common challenges faced by sales teams:
 ## 1️⃣ Lack of Regional Performance Visibility

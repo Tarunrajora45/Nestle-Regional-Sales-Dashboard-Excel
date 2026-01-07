@@ -113,12 +113,13 @@ Time-based Analysis
 - 📦 Top Product : Nestle Maxibon Cookie
 
 ---
-# 🔹 Repository  Structure
+# 💡Repository  Structure
 ```
-
-
+- Dashboard Preview
+- Dataset
+- Readme.md
+- Regional Sales Dashboard
 ```
-
 ---
 # 🔹 Helping Feedback 
 Your feedback is welcome ! If you’d like to Collaborate or Feedbacks On this project , Feel free to reach out

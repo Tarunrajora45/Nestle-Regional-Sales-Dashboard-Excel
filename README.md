@@ -110,14 +110,6 @@ Time-based Analysis
 - 📦 Top Product : Nestle Maxibon Cookie
 
 ---
-# 🔹 Dashboard Preview
-(Screenshots attached in the /Preview  folder)
-
----
-# 🔹 Dashboard Report File
-(dashboard file attached in the /Dashboard  folder)
-
----
 # 🔹 Repository  Structure
 
 

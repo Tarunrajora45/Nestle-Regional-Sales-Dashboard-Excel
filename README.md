@@ -2,7 +2,7 @@
 
 ---
 ## Table of Contents
-- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#overview">Overview</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel?tab=readme-ov-file#overview">Overview</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Dataset.xlsx">Dataset<a/>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#real-world-business-problems-solved">Business Problems</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-key-insights-generated-from-this-dashboard">Key Insights</a>

@@ -11,7 +11,7 @@
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#key-project-highlights">Project Highlights</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Dashboard%20Preview.png">Dashboard Preview</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Regional%20Sales%20Dashboard.xlsx">Dashboard</a>
-- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-repository--structure">Repository Structure</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#repository--structure">Repository Structure</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-helping-feedback">Helping Feedback</a> 
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-created-by">Created By</a>
 ---

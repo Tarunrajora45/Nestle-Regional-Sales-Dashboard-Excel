@@ -5,7 +5,7 @@ This project is an Nestle Comp. Regional Sales dashboard designed to analyze reg
 ## Table of Contents
 <a href="#Overview">Overview</a>
 ### Dataset
-### Business Problems
+<a href="#Business Problems">Business Problems</a>
 ### Key Insights
 ### Why this Project Stands Out ?
 ### Tools & Skills Used

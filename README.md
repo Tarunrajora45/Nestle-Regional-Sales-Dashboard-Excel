@@ -5,16 +5,16 @@ This project is an Nestle Comp. Regional Sales dashboard designed to analyze reg
 ## Table of Contents
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#nestle-regional-sales-dashboard-excel">Overview</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Dataset.xlsx">Dataset<a/>
-- <a href=>Business Problems</a>
-### Key Insights
-### Why this Project Stands Out ?
-### Tools & Skills Used
-### Project Highlights
-### Dashboard Preview
-### Dashboard
-### Project Structure
-### Helping Feedback 
-### Created By
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#real-world-business-problems-solved">Business Problems</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-key-insights-generated-from-this-dashboard">Key Insights</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-why-this-project-stands-out">Why this Project Stands Out?</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-tools--skills-used">Tools & Skills</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#key-project-highlights">Project Highlights</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Dashboard%20Preview.png">Dashboard Preview</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Regional%20Sales%20Dashboard.xlsx">Dashboard</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-repository--structure">Repository Structure</a>
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-helping-feedback">Helping Feedback</a> 
+- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-created-by">Created By</a>
 ---
 
 # Real-World Business Problems Solved

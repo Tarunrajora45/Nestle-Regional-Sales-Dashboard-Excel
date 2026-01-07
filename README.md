@@ -4,7 +4,7 @@
 ## Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/Dataset.xlsx">Dataset<a/>
-- <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#real-world-business-problems-solved">Business Problems</a>
+- <a href="#real-world-business-problems-solved">Business Problems</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-key-insights-generated-from-this-dashboard">Key Insights</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-why-this-project-stands-out">Why this Project Stands Out?</a>
 - <a href="https://github.com/Tarunrajora45/Nestle-Regional-Sales-Dashboard-Excel/blob/main/README.md#-tools--skills-used">Tools & Skills</a>

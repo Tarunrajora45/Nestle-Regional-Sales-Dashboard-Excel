@@ -126,7 +126,7 @@ Your feedback is welcome ! If you’d like to Collaborate or Feedbacks On this p
 
 ---
 # 🔹 Created By
-- 🙋‍♂️ Author : Tarun Rajora
-- 📞 Contact info : +91 8218228577
-- 📧 E-mail Id : trajora106@gmail.com
-- 🔗 Linkedin Id : <a href="https://www.linkedin.com/in/tarun-rajora-1531332a1/">Tarun Rajora</a>
+- 🙋‍♂️ Tarun Rajora
+- 📞 +91 8218228577
+- 📧 trajora106@gmail.com
+- 🔗 <a href="https://www.linkedin.com/in/tarun-rajora-1531332a1/">Linkedin</a>

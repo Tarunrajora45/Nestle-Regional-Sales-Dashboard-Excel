@@ -128,5 +128,5 @@ Your feedback is welcome ! If you’d like to Collaborate or Feedbacks On this p
 # 🔹 Created By
 - 🙋‍♂️ Tarun Rajora
 - 📞 +91 8218228577
-- 📧 <a href="mailto:trajora@gmail.com">trajora@gmail.com</a>
+- 📧 <a href="mailto:trajora106@gmail.com">trajora106@gmail.com</a>
 - 🔗 <a href="https://www.linkedin.com/in/tarun-rajora-1531332a1/">Linkedin</a>
